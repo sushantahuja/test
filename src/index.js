@@ -13,7 +13,7 @@ function Welcome(props) {
 function App() {
   return (
     <div>
-      <Welcome name="Sara" />
+      <Welcome name="Greetings to Sara" />
       <Welcome name="Cahal Greetings" />
       <Welcome name="Edite" />
     </div>
