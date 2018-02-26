@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Welcome name="Sara" />
-      <Welcome name="Cahal" />
+      <Welcome name="Cahal Greetings" />
       <Welcome name="Edite" />
     </div>
   );
