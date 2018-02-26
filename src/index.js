@@ -15,7 +15,7 @@ function App() {
     <div>
       <Welcome name="Greetings to Sara" />
       <Welcome name="Cahal Greetings" />
-      <Welcome name="Edite" />
+      <Welcome name="Welcome Edite" />
     </div>
   );
 }
