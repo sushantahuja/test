@@ -20,6 +20,15 @@ function App() {
   );
 }
 
+function App_second() {
+    return (
+        <div>
+            <Welcome name="Greetings to Sara" />
+            <Welcome name="Cahal Greetings" />
+            <Welcome name="Edite here you are" />
+        </div>
+    );
+}
 ReactDOM.render(
   <App />,
   document.getElementById('root')
